@@ -1,0 +1,41 @@
+Alex Rivera
+Senior Software Engineer
+Berlin, Germany · alex.rivera@email.com · github.com/alexrivera
+
+SUMMARY
+Full-stack engineer with 7 years building product-facing web applications and internal developer platforms. Strong in TypeScript, React, Node.js, and PostgreSQL. Comfortable owning features end-to-end: API design, data modeling, observability, and mentoring.
+
+EXPERIENCE
+
+Senior Software Engineer — Northwind Labs (2021–Present)
+- Led migration of a monolith checkout service to modular Node.js services; cut p95 latency 35%.
+- Built an internal RAG prototype for support docs using OpenAI embeddings and Postgres pgvector.
+- Introduced CI quality gates (lint, unit, contract tests) and OpenTelemetry tracing across 4 services.
+- Mentored 3 mid-level engineers; ran weekly design reviews.
+
+Software Engineer — Harbor Retail (2018–2021)
+- Delivered React + TypeScript storefront features used by 2M monthly shoppers.
+- Designed REST APIs in Node.js/Express backed by PostgreSQL; added Redis caching for catalog reads.
+- Partnered with product and design on A/B experiments that lifted conversion 4.2%.
+
+Junior Developer — Brightside Agency (2017–2018)
+- Built marketing sites and small CMS integrations in JavaScript and Python Flask.
+
+EDUCATION
+B.Sc. Computer Science — Technical University of Berlin (2017)
+
+SKILLS
+Languages: TypeScript, JavaScript, Python, SQL
+Frontend: React, Next.js, CSS, accessibility basics
+Backend: Node.js, Express, REST, basic GraphQL
+Data: PostgreSQL, Redis, Elasticsearch (basic)
+Cloud/DevOps: Docker, GitHub Actions, AWS (EC2, S3, RDS) — intermediate
+AI/ML: Prompt engineering, RAG prototypes, OpenAI API; no production ML training experience
+Practices: TDD for critical paths, code review, incident response basics
+
+PROJECTS
+FitNote (side project) — Personal knowledge base with semantic search over Markdown notes.
+Loadboard Lite — Toy logistics matching API demonstrating queues and idempotent webhooks.
+
+LANGUAGES
+English (fluent), German (B2), Spanish (conversational)

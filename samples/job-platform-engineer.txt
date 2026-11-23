@@ -1,0 +1,31 @@
+Job #2 — Platform Engineer
+Company: Orbital Freight
+Location: Hybrid Berlin · Full-time
+
+ABOUT THE ROLE
+Orbital Freight is building an internal developer platform so product teams can ship services without reinventing CI, observability, and deployment. As a Platform Engineer you will own paved roads for Kubernetes workloads and golden-path templates.
+
+RESPONSIBILITIES
+- Build and maintain internal platform tooling (CLI, templates, GitHub Actions workflows).
+- Operate Kubernetes clusters and service mesh basics.
+- Define SLOs and improve deployment safety (canaries, rollbacks).
+- Partner with product squads to reduce time-to-first-deploy.
+- Write clear docs and run enablement sessions.
+
+REQUIREMENTS
+- 4+ years in platform, SRE, or backend infrastructure roles.
+- Hands-on Kubernetes (deployments, networking, RBAC).
+- Strong Linux fundamentals and infrastructure-as-code (Terraform).
+- Experience with observability stacks (Prometheus, Grafana, OpenTelemetry).
+- Comfortable coding in Go or Python for tooling.
+- Incident management experience.
+
+PREFERRED
+- AWS EKS / GCP GKE at scale.
+- Policy-as-code (OPA/Kyverno).
+- Prior experience migrating monoliths to services.
+- Familiarity with developer experience metrics.
+
+NICE TO HAVE
+- Contributions to open-source platform tooling.
+- Security certifications.

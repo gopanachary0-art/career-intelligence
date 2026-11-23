@@ -1,0 +1,30 @@
+Job #1 — Senior Full Stack Engineer
+Company: Contour Health
+Location: Remote (EU) · Full-time
+
+ABOUT THE ROLE
+Contour Health is hiring a Senior Full Stack Engineer to own patient-facing workflows in our care coordination product. You will ship features across React/Next.js and Node.js services, improve reliability, and collaborate closely with clinicians and designers.
+
+RESPONSIBILITIES
+- Design and implement end-to-end features in TypeScript (Next.js + Node APIs).
+- Model relational data in PostgreSQL and evolve schemas safely.
+- Improve observability: structured logs, metrics, and traces.
+- Participate in on-call and postmortems.
+- Mentor engineers and contribute to technical RFCs.
+
+REQUIREMENTS
+- 5+ years professional software engineering experience.
+- Strong TypeScript, React, and Node.js.
+- Solid PostgreSQL skills (indexes, transactions, migrations).
+- Experience shipping production web applications.
+- Comfortable with Docker and CI/CD.
+- Excellent written communication.
+
+PREFERRED
+- Next.js App Router experience.
+- Healthcare or other regulated domain experience.
+- Exposure to RAG / LLM features in product.
+- AWS experience (ECS/EKS, RDS, S3).
+
+BENEFITS
+Competitive salary, learning budget, flexible hours, equity.

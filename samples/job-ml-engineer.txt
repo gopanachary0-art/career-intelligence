@@ -1,0 +1,29 @@
+Job #3 — Machine Learning Engineer
+Company: Helix Insights
+Location: Remote · Full-time
+
+ABOUT THE ROLE
+Helix Insights builds forecasting models for retail supply chains. We need an ML Engineer to take models from notebook to production: training pipelines, feature stores, and online inference.
+
+RESPONSIBILITIES
+- Train and evaluate supervised models (time-series and tabular).
+- Build reproducible training pipelines (Airflow/Kubeflow or similar).
+- Deploy real-time and batch inference services.
+- Partner with data scientists on experimentation and model monitoring.
+- Improve data quality checks and feature documentation.
+
+REQUIREMENTS
+- 3+ years applying ML in production environments.
+- Strong Python and familiarity with PyTorch or TensorFlow.
+- Experience with feature engineering and offline evaluation metrics.
+- Comfortable with SQL and large analytical datasets.
+- Understanding of model drift, monitoring, and rollback strategies.
+
+PREFERRED
+- MLOps tooling (MLflow, Feast, SageMaker, Vertex AI).
+- Experience with LLM fine-tuning or RAG systems is a plus but not the core of this role.
+- Spark or BigQuery experience.
+- Published papers or public technical writing.
+
+NOTE
+This role emphasizes classical ML and MLOps more than application engineering.
